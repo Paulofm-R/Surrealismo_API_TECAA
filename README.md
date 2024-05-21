@@ -1,2 +1,4 @@
 # Surrealismo_API
-API do projeto Surrealismo (ESMAPP) da fundação cupertino miranda
+API do projeto Surrealismo (ESMAPP)
+
+
