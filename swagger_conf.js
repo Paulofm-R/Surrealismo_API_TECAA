@@ -1,5 +1,6 @@
 const options = {
     swaggerDefinition: {
+        openapi: "3.1.0",
         info: {
             description: 'Surrealismo API for ESMAPP project',
             title: "Surrealismo API",
